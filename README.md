@@ -1,5 +1,5 @@
 # Login System
-#Access link: lamp0.cs.stir.ac.uk/~dfa/login
+Access link: lamp0.cs.stir.ac.uk/~dfa/login
 
 A web page is that offers users the opportunity to either log in with existing credentials or register to create an account. Log in credentials involve an email address (which serves as a username) and a password. When users register they are prompted to enter an email address and choose their own password, which must have 8 characters or more, including at least one number and one letter. Any other characters are not allowed. 
 
